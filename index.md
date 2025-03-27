@@ -5,3 +5,6 @@ alt-text![Image of Github cat] (https://www.bing.com/images/search?view=detailV2
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Have Breakfast
+- [ ] Brush hair
+- [ ] Brush teeth
